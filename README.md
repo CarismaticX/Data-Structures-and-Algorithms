@@ -24,6 +24,12 @@ This repository documents my progress learning Data Structures & Algorithms usin
 ### Week 2 (27 July 2025 – 2 August 2025)
 - ✅ Learned Time & Space Complexity
 - ✅ Studied Binary Search and its variations
+- ✅ Solved key Binary Search problems:
+  - Search in Rotated Sorted Array
+  - Book Allocation
+  - Painters Partition
+  - Aggressive Cows
+  - Square Root (Binary Search approach)
 - ✅ Practiced number systems, math logic, and array basics
 - ✅ Continued solving problems on LeetCode & GeeksforGeeks
 
