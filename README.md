@@ -12,6 +12,7 @@ This repository documents my progress learning Data Structures & Algorithms usin
 - Arrays (Basics, Search, Sum, Min/Max)
 - Time & Space Complexity (Big O Notation)
 - Binary Search (Basic & Variations)
+- Sorting Algorithms (Selection, Bubble, Insertion)
 
 ## 📅 Weekly Progress
 
@@ -31,7 +32,11 @@ This repository documents my progress learning Data Structures & Algorithms usin
   - Aggressive Cows
   - Square Root (Binary Search approach)
 - ✅ Practiced number systems, math logic, and array basics
-- ✅ Continued solving problems on LeetCode & GeeksforGeeks
+- ✅ Sorting Algorithms covered:
+  - Introduction to Sorting
+  - Selection Sort
+  - Bubble Sort
+  - Insertion Sort
 
 ## 🛠️ Resources
 - Mainly following **Love Babbar’s DSA Playlist**
