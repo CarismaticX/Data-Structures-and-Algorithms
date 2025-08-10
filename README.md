@@ -60,6 +60,18 @@ This repository documents my progress learning Data Structures & Algorithms usin
   - Remove Adjacent Duplicates  
 - ✅ Focused on applying STL for efficient problem-solving  
 
+### Week 4 (10 August 2025 – 16 August 2025)
+- ✅ Solved matrix problems:  
+  - Rotate Image  
+  - Spiral Matrix  
+- ✅ Implemented binary search based matrix search problems:  
+  - Search a 2D Matrix I  
+  - Search a 2D Matrix II  
+- ✅ Practiced string manipulation problems:  
+  - Convert String to Lowercase  
+- ✅ Improved problem-solving skills with combined matrix and string challenges  
+- ✅ Continued strengthening understanding of 2D arrays and search techniques  
+
 ---
 
 ## 🛠️ Resources
