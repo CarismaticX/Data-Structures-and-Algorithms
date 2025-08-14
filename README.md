@@ -65,26 +65,25 @@ This repository documents my progress learning Data Structures & Algorithms usin
   - Remove Adjacent Duplicates  
 - ✅ Focused on applying STL for efficient problem-solving  
 
-# Week 4 (10 August 2025 – 16 August 2025)
-✅ Solved matrix problems:
-Rotate Image
-Spiral Matrix
-Print Like Wave
-✅ Implemented binary search based matrix search problems:
-Search a 2D Matrix I
-Search a 2D Matrix II
-✅ Practiced string manipulation problems:
-Convert String to Lowercase
-✅ Solved math & number theory problems:
-Count Primes
-GCD
-Modular Exponentiation
-✅ Learned and implemented pointers:
-Pointer Basics & Functions
-Reference Variables
-Double Pointers
-✅ Continued strengthening understanding of 2D arrays, dynamic memory, and combined problem-solving
- 
+### Week 4 (10 August 2025 – 16 August 2025)
+- ✅ Solved matrix problems:  
+  - Rotate Image  
+  - Spiral Matrix  
+  - Print Like Wave  
+- ✅ Implemented binary search based matrix search problems:  
+  - Search a 2D Matrix I  
+  - Search a 2D Matrix II  
+- ✅ Practiced string manipulation problems:  
+  - Convert String to Lowercase  
+- ✅ Solved math & number theory problems:  
+  - Count Primes  
+  - GCD  
+  - Modular Exponentiation  
+- ✅ Learned and implemented pointers:  
+  - Pointer Basics & Functions  
+  - Reference Variables  
+  - Double Pointers  
+- ✅ Continued strengthening understanding of 2D arrays, dynamic memory, and combined problem-solving
 
 ---
 
@@ -96,5 +95,3 @@ Double Pointers
 ---
 
 More topics and problems coming soon 🚀
-
-this is my readme i will give you a ss of week 4 and you need to update the week 4 section and topics section 
