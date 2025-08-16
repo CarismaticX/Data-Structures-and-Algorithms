@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+
+void sayDigits(int n, string arr[]){
+
+    //Base Case
+
+    if(n==0){
+        return;
+    }
+
+    int digits = n%10;
+    n = n/10;
+
+    sayDigits(n , arr);
+
+    cout<<arr[digits]<<" ";
+
+}
+
+int main() {
+
+    int n;
+    cin>>n;
+
+    string arr[10] = {"zero" ," one" ,"two", "three" ,"four"," five ","six ","seven","eight" ,"nine" };
+
+    sayDigits(n, arr); 
+    
+
+    return 0;
+}
