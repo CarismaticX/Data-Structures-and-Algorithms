@@ -1,3 +1,4 @@
+//Find if an array is sorted  using recursion 
 #include<iostream>
 using namespace std;
 
@@ -22,6 +23,7 @@ int main() {
     int size  = 5;
 
     bool ans  = isSorted(arr, size);
+
 
     if (ans) {
         cout<<"Array is sorted"<<endl;
