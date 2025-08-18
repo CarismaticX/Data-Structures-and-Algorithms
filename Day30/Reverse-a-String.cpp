@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-void reverse(string& str, int i, int j) {
+void reverse(string& str, int i, int j) 
+{
     // base case
     if (i > j)
         return;
