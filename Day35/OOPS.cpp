@@ -13,7 +13,7 @@ public:
         age = a;
     }
 
-    // Member function to display detailsS
+    // Member function to display detailss
     void display() {
         cout << "Name: " << name << ", Age: " << age << endl;
     }
@@ -34,7 +34,7 @@ int main() {
     Person p1("John", 25);
     p1.display();
 
-    // Using setter to change age
+    // Using setter to change  age
     p1.setAge(30);
     cout << "Updated Age: " << p1.getAge() << endl;
 
