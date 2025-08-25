@@ -14,5 +14,5 @@ public:
 int main() {
     Math obj;
     cout << obj.add(5, 10) << endl;
-    cout << obj.add(5.5, 10.2) << endl;
+    cout << obj.add(5.5, 10.2) << endl ;
 }
