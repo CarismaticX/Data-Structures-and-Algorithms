@@ -55,7 +55,7 @@ Node *findMiddle(Node *head) {
 
 
 int main() {
-    // Creating a sample linked list: 
+    // Creating a sample linked list : 
     Node* head = new Node(1);
     head->next = new Node(2);
     head->next->next = new Node(3);
