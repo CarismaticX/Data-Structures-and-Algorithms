@@ -2,7 +2,7 @@
 
 This repository documents my progress learning Data Structures & Algorithms using C++. It includes day-wise solved problems and concepts learned.
 
-📅 **Started:** 20 July 2025
+📅 **Started:** 20 July 2025  
 
 ---
 
@@ -15,13 +15,21 @@ This repository documents my progress learning Data Structures & Algorithms usin
 ## ✅ Topics Covered
 - Arrays (Basics, Search, Sum, Min/Max)  
 - Time & Space Complexity (Big O Notation)  
-- Binary Search (Basic & Variations)  
-- Sorting Algorithms (Selection, Bubble, Insertion)  
-- Strings (Manipulation, Palindrome, Compression, Permutations)  
+- Binary Search (Basic & Variations, Advanced Problems)  
+- Sorting Algorithms (Selection, Bubble, Insertion, Merge Sort, Quick Sort, Recursive Sorting)  
+- Strings (Manipulation, Palindrome, Compression, Permutations, Substrings, STL usage)  
 - Matrices (2D Arrays, Spiral, Rotation, Wave Print, Binary Search on Matrix)  
-- Pointers & Reference Variables (Basics, Functions)  
+- Pointers & Reference Variables (Basics, Functions, Double Pointers)  
 - Modular Arithmetic & GCD  
-- Dynamic Memory Allocation (1D & 2D Arrays)
+- Dynamic Memory Allocation (1D & 2D Arrays)  
+- Recursion (Basics, String Problems, Subsets/Subsequences, Exponentiation)  
+- Backtracking (Subsets, Permutations, Letter Combinations)  
+- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism, Abstraction, Function & Operator Overloading)  
+- Linked List  
+  - Singly Linked List (Basics, Insert/Delete/Search, Problems like Reverse, Palindrome, Nth Node)  
+  - Doubly Linked List (Convert Array to DLL, Insert/Delete, Reverse)  
+  - Advanced LL Problems (Add Two Numbers, Odd-Even LL, Sort 0s/1s/2s, Add 1 to LL)
+
 
 ---
 
@@ -84,6 +92,51 @@ This repository documents my progress learning Data Structures & Algorithms usin
   - Reference Variables  
   - Double Pointers  
 - ✅ Continued strengthening understanding of 2D arrays, dynamic memory, and combined problem-solving
+
+### Week 5 (17 August 2025 – 23 August 2025)  
+- ✅ **Binary Search (Advanced problems):**  
+  - First & Last Occurrence (Recursive)  
+  - Peak Element in Mountain Array  
+  - Search in Rotated Sorted Array  
+- ✅ **Recursion Basics:**  
+  - Reverse a String  
+  - Palindrome Check  
+  - Exponentiation (x^n)  
+  - Print Subsequences & Subsets  
+- ✅ **Sorting with Recursion:**  
+  - Bubble Sort  
+  - Merge Sort  
+  - Quick Sort  
+  - Selection Sort (recursive implementation)  
+- ✅ **Backtracking Intro:**  
+  - Subsets (LeetCode 78)  
+  - Subsequences of a String  
+  - Letter Combinations of a Phone Number (LeetCode 17)  
+  - Permutations (LeetCode 46 + custom recursive implementation)  
+
+### Week 6 (24 August 2025 – 30 August 2025)
+- ✅ OOP Concepts (Day 36–37)  
+  - Encapsulation, Inheritance, Abstraction  
+  - Function & Operator Overloading  
+  - Run-time Polymorphism  
+- ✅ Linked List Basics (Day 38–39)  
+  - Count Nodes  
+  - Searching in LL  
+  - Insertions & Deletions (head, tail, kth element, before/after value)
+
+### Week 7 (31 August 2025 – 6 September 2025)
+- ✅ Doubly Linked List (Day 41)  
+  - Convert Array to DLL  
+  - Insert/Delete at various positions  
+  - Reverse DLL  
+- ✅ Linked List Advanced Problems (Day 42–46)  
+  - Add Two Linked Lists  
+  - Odd-Even Linked List  
+  - Sort 0s, 1s, 2s in LL  
+  - Remove Nth Node from End  
+  - Reverse Linked List (iterative & recursive)  
+  - Palindrome Linked List  
+  - Add 1 to Number Represented as LL  
 
 ---
 
