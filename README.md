@@ -28,8 +28,8 @@ This repository documents my progress learning Data Structures & Algorithms usin
 - Linked List  
   - Singly Linked List (Basics, Insert/Delete/Search, Problems like Reverse, Palindrome, Nth Node)  
   - Doubly Linked List (Convert Array to DLL, Insert/Delete, Reverse)  
-  - Advanced LL Problems (Add Two Numbers, Odd-Even LL, Sort 0s/1s/2s, Add 1 to LL)
-
+  - Advanced LL Problems (Add Two Numbers, Odd-Even LL, Sort 0s/1s/2s, Add 1 to LL)  
+  - Hard LL Problems (Cycle Detection, k-Group Reversal, Flattening, Random Pointer, Merge k Lists)  
 
 ---
 
@@ -91,7 +91,7 @@ This repository documents my progress learning Data Structures & Algorithms usin
   - Pointer Basics & Functions  
   - Reference Variables  
   - Double Pointers  
-- ✅ Continued strengthening understanding of 2D arrays, dynamic memory, and combined problem-solving
+- ✅ Continued strengthening understanding of 2D arrays, dynamic memory, and combined problem-solving  
 
 ### Week 5 (17 August 2025 – 23 August 2025)  
 - ✅ **Binary Search (Advanced problems):**  
@@ -137,6 +137,38 @@ This repository documents my progress learning Data Structures & Algorithms usin
   - Reverse Linked List (iterative & recursive)  
   - Palindrome Linked List  
   - Add 1 to Number Represented as LL  
+
+### Week 8 (7 September 2025 – 13 September 2025)  
+- ✅ **Linked List Problems (Cycle, Middle, Intersection, Length of Loop, Closest Person)**  
+  - Linked List Cycle (LeetCode 141)  
+  - Intersection of Two Linked Lists (LeetCode 160)  
+  - Middle of Linked List (LeetCode 876)  
+  - Find Closest Person (LeetCode 3830)  
+  - Length of Loop in Linked List  
+
+- ✅ **Linked List Advanced**  
+  - Linked List Cycle II (LeetCode 142)  
+  - Delete the Middle Node of a Linked List (LeetCode 2216)  
+
+- ✅ **Hard Linked List Problems**  
+  - Reverse Nodes in k-Group (LeetCode 25)  
+  - Rotate List (LeetCode 61)  
+  - Delete All Key from DLL  
+  - Merge 2 Sorted Linked Lists  
+  - Pair Sum in DLL  
+  - Remove Duplicates in Sorted DLL  
+
+- ✅ **Complex Linked List Structures**  
+  - Flattening of a Linked List  
+
+- ✅ **Merge Problems**  
+  - Merge Two Sorted Lists (LeetCode 21)  
+  - Merge k Sorted Lists (LeetCode 23)  
+
+- ✅ **Miscellaneous**  
+  - Palindrome Number (LeetCode 9)  
+  - Sort List (LeetCode 148)  
+  - Copy List with Random Pointer (LeetCode 138)  
 
 ---
 
