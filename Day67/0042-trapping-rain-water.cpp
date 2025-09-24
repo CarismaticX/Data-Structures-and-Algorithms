@@ -10,14 +10,14 @@ public:
                 if (height[l] >= leftMax) {
                     leftMax = height[l];
                 } else {
-                    water += leftMax - height[l];
+                    water +=  leftMax - height[l];
                 }
                 l++;
             } else {
                 if (height[r] >= rightMax) {
                     rightMax = height[r];
                 } else {
-                    water += rightMax - height[r];
+                    water  += rightMax - height[r];
                 }
                 r--;
             }
