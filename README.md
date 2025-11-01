@@ -12,6 +12,16 @@ This repository documents my progress learning Data Structures & Algorithms usin
 
 ---
 
+## 📊 Current Status
+- Reached **Day 102 / 150** in the DSA Challenge.  
+- Currently **paused due to end-semester exams and health recovery**.  
+- Plan to **resume soon at a slower pace**, focusing on  
+  - deeper conceptual understanding,  
+  - more hands-on practice, and  
+  - consistency over speed.  
+
+---
+
 ## ✅ Topics Covered
 - Arrays (Basics, Search, Sum, Min/Max)  
 - Time & Space Complexity (Big O Notation)  
@@ -259,15 +269,7 @@ This repository documents my progress learning Data Structures & Algorithms usin
 ---
 
 
-## 📊 Current Status
-- Reached **Day 102 / 150** in the DSA Challenge.  
-- Currently **paused due to end-semester exams and health recovery**.  
-- Plan to **resume soon at a slower pace**, focusing on  
-  - deeper conceptual understanding,  
-  - more hands-on practice, and  
-  - consistency over speed.  
 
----
 
 
 More topics and problems coming soon 🚀
